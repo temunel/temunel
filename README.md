@@ -21,16 +21,16 @@ Seasoned Software Engineer with over 8 years of experience in software developme
 - Feel free to [contact](mailto:temunel.p@gmail.com) me if you have a project idea you would like to bring to life.
 
 ## Technology
-**✅ Programming Languages**: Python, Java, JavaScript, TypeScript
+**✅ <ins>Programming Languages</ins>**: Python, Java, JavaScript, TypeScript
 
-**✅ System Design & Software Architecture**: Client-Server, Monolithic(Layering), SOA(Microservices, Serverless), CBA(Object-Oriented), DDD
+**✅ <ins>System Design & Software Architecture</ins>**: Client-Server, Monolithic, SOA(Microservices, Serverless), CBA(Object-Oriented), DDD
 
-**✅ Back-end**: Django, DRF, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase
+**✅ <ins>Back-end</ins>**: Django, DRF, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase
 
-**✅ Data Science & Machine Learning**:  NumPy, Pandas, PyTorch, Tensorflow
+**✅ <ins>Data Science & Machine Learning</ins>**:  NumPy, Pandas, PyTorch, Tensorflow
 
-**✅ Front-end**: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
+**✅ <ins>Front-end</ins>**: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
 
-**✅ Testing**: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
+**✅ <ins>Testing</ins>**: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
 
-**✅ DevOps**:  Linux, Docker, Kubernetes, Jenkins, Github Actions, Terraform, Nginx, AWS, GCP, Digital Ocean, Cloudflare
+**✅ <ins>DevOps</ins>**:  Linux, Docker, Kubernetes, Jenkins, Github Actions, Terraform, Nginx, AWS, GCP, Digital Ocean, Cloudflare
